@@ -41,6 +41,9 @@ A desktop-based Billing System developed using Python and Tkinter. A simple yet 
 ## 📸 Screenshots
 
 ![Main Interface](BillingScreenshot1.png) <br>
+![Main Interface](BillingScreenshot.png) <br>
+
+
 *Main billing interface with categorized items and live total preview.*
 
 ---
